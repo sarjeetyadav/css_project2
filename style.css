@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(12, 8, 20);
+}
+.first {
+    text-align: center;
+    background-color: rgb(1, 22, 85);
+        padding: 10px;
+        margin: 0%;
+
+}
+h1 {
+    color: #15dceb;
+    
+}
+p {
+    color:white
+}
+.second {
+    background-color: rgb(1, 22, 160);
+    padding: 1%;
+    
+    text-align: center;
+}
+a {
+    color: rgb(246, 248, 250);
+    text-decoration: none;
+    padding: 10px;
+    margin: ;
+}
+
+.third {
+    background-color:  rgb(1, 22, 85);
+    padding: 10%;
+    margin: 34px;
+    text-align: center;
+}
+
+.fourth {
+    background-color: rgb(1, 22, 85);
+    padding: 10%;
+    margin: 34px;
+    text-align: center;
+}
+
+.fifth {
+    background-color: rgb(1, 22, 85);
+    padding: 10%;
+    margin: 34px;
+    text-align: center;
+}
+
+.sixth {
+    background-color: rgb(1, 22, 85);
+    padding: 10%;
+    margin: 34px;
+    text-align: center;
+}
+
+.seventh {
+    background-color: rgb(1, 22, 85);
+    padding: 1%;
+    
+    text-align: center;
+}
